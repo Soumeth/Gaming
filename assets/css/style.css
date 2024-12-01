@@ -79,7 +79,7 @@
     padding: 8px 16px;
   }
   .main-header {
-    background: url(./assets/img/bg.jpg) fixed center/cover;
+    background: url(../img/bg.jpg) fixed center/cover;
     color: white;
     padding: 60px;
   }
